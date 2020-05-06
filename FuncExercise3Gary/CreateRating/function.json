@@ -1,0 +1,18 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.31",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "methods": [
+        "post"
+      ],
+      "authLevel": "function",
+      "name": "req",
+      "direction": "in"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/Serverless2.dll",
+  "entryPoint": "Serverless.CreateRating.Run"
+}
