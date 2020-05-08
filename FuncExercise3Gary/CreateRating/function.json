@@ -9,7 +9,7 @@
       ],
       "authLevel": "function",
       "name": "req",
-      "direction": "inout"
+      "direction": "in"
     }
   ],
   "disabled": false,

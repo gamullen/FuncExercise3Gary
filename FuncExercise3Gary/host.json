@@ -8,7 +8,7 @@
         "leasePrefix": "prefix1"
       }
     }
-  }
+  },
   "logging": {
     "applicationInsights": {
       "samplingExcludedTypes": "Request",
